@@ -32,7 +32,7 @@ namespace EzShell //v 1.3.0.0
         {
             string linkmaincheck = @"https://fordroid.3dn.ru/pictures/domaincheck.txt";
             string finaldomain = @"";
-            string filename = "linkdomain.txt";
+            string filename = "linkdomain.txt";  // содержится ссылка на текущий домен
             // Объект запроса
             HttpWebRequest rew = (HttpWebRequest)WebRequest.Create(linkmaincheck);
             // Отправить запрос и получить ответ
