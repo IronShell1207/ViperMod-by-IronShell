@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViPER4WindowsCtrlPanel_mod", "ViPER4WindowsCtrlPanel_mod.csproj", "{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_CONTROLS", "Utils_\UI_CONTROLS.csproj", "{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Deb|Any CPU = Deb|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}.Deb|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}.Deb|Any CPU.Build.0 = Debug|Any CPU
+		{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A434A34-59B4-4ED5-8791-E1F59B1EADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}.Deb|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}.Deb|Any CPU.Build.0 = Debug|Any CPU
+		{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F5B54F-D114-4CBE-99C8-AB97091B9BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA3BF26-6560-4F1C-96D8-8645A1A8C5A7}
+	EndGlobalSection
+EndGlobal
